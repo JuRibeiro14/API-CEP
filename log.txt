@@ -1,0 +1,21 @@
+Data e Hora: 2024-08-28T21:39:26.441148-03:00 America/Sao_Paulo
+CEP: 11724-350
+Rua: Rua Elvira Fernandes de Lima
+Bairro: Sítio do Campo
+Cidade: Praia Grande
+Estado: SP
+----------
+Data e Hora: 2024-08-28T21:43:29.262351-03:00 America/Sao_Paulo
+CEP: 11325-030
+Rua: Rua Aviador Edu Chaves
+Bairro: Jardim Recanto São Vicente
+Cidade: São Vicente
+Estado: SP
+----------
+Data e Hora: 2024-08-28T21:44:07.875782-03:00 America/Sao_Paulo
+CEP: 11700-100
+Rua: Praça Dezenove de Janeiro
+Bairro: Boqueirão
+Cidade: Praia Grande
+Estado: SP
+----------
